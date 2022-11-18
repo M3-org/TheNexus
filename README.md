@@ -8,12 +8,16 @@ The Nexus is an open source, community-driven, CC0 city for the open metaverse.
 - Fork it and modify it to fit your community
 - Build with us and be part of something that will exist forever for anyone to use
 
-[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+---
 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END --> 
+## Demos
+
+- https://hyperfy.io/nexus
+- https://beta.thewired.space/space/0x46ad-0x3b
+
+More coming soon
+
+---
 
 ## Setup Instructions
 The project uses vanilla Blender 3.0 or above. For the best experience, use the latest version.
@@ -92,5 +96,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ![image](https://user-images.githubusercontent.com/18633264/172650173-d8766663-ccd4-406f-9ae7-08107127ae5a.png)
 
+
+
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 
